@@ -1,2 +1,2 @@
 # python
- projetos diversos feitos com python
+ projetos diversos feitos com python.
